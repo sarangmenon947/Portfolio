@@ -401,6 +401,12 @@ export const certifications = [
         year: "2025",
     },
     {
+        id: 9,
+        name: "Robotics (Level 1-6)",
+        institution: "MATH JUNIOR, India",
+        year: "2025",
+    },
+    {
         id: 22,
         name: "Elements of AI",
         institution: "University of Helsinki, Finland",
@@ -572,12 +578,6 @@ export const certifications = [
         id: 4,
         name: ".NET C# Programming",
         institution: "CITC - Hub of IT, India",
-        year: "2025",
-    },
-    {
-        id: 16,
-        name: "Robotics (Level 1-6)",
-        institution: "MATH JUNIOR, India",
         year: "2025",
     },
 ];
