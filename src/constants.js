@@ -139,12 +139,11 @@ export const volunteerships = [
             "Designing and conducting workshops based on tech for free.",
         ],
         links: [
-            "Requesting to check the official We Connect the Dots website (link provided below) for more information: ",
             "https://www.we-connect-the-dots.org/cap-team",
             "https://www.we-connect-the-dots.org/volunteers",
         ],
     },
-]
+];
 
 export const internships = [
     {

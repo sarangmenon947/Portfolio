@@ -1,3 +1,4 @@
+// Volunteerships.jsx
 import React from "react";
 import { volunteerships } from "../constants";
 
@@ -18,7 +19,6 @@ const Volunteerships = () => {
 
             {/* Cards */}
             <div className="max-w-7xl mx-auto space-y-8">
-                {/* Experience Entries */}
                 {volunteerships.map((experience) => (
                     <div
                         key={experience.id}
@@ -68,7 +68,7 @@ const Volunteerships = () => {
 
                                 {experience.links && experience.links.length > 0 && (
                                     <div className="mt-4">
-                                        <h5 className="font-medium text-white mb-2">Learn More:</h5>
+                                        <h5 className="text-sm font-medium text-white mb-2">Learn More:</h5>
                                         <div className="flex flex-wrap gap-2">
                                             {experience.links.map((link, linkIndex) => (
                                                 <a
