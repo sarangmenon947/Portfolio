@@ -190,7 +190,7 @@ export const education = [
     {
         id: 0,
         img: birlaBrainiacsLogo,
-        school: "Birla Brainiacs",
+        school: "Birla Brainiacs - India",
         date: "April 2025 - Present",
         desc: "Pursuing academic excellence through a comprehensive online learning platform. Developing strong fundamentals in STEM subjects, language arts, and critical thinking skills. The digital learning environment fosters self-motivation, discipline, and adaptability while maintaining high academic standards.",
         degree: "9th Grade",
