@@ -136,7 +136,7 @@ export const volunteerships = [
             "on STEAM topics, including AI and coding.",
             "Assisting with program design and development by providing student perspectives and\n" +
             "contributing to the agile design-thinking process.",
-            "Designing and conducting workshops based on tech for free.",
+            "Designing and conducting workshops based on tech.",
         ],
         links: [
             "https://www.we-connect-the-dots.org/cap-team",
