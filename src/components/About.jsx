@@ -1,7 +1,7 @@
 import React from 'react';
 import { Typewriter } from "react-simple-typewriter";
 import Tilt from 'react-parallax-tilt';
-import profileImage from '../assets/Profile.png';
+import profileImage from '../assets/Profile.jpg';
 
 const About = () => {
     return (
@@ -24,17 +24,20 @@ const About = () => {
                         Sarang Menon
                     </h2>
 
-                    {/* SHeading */}
+                    {/* Heading */}
                     <h3 className="text-xl sm:text-2xl md:text-3xl font-semibold mb-4 text-[#8245ec] leading-tight">
                         <span className="text-white">I am </span>
                         <span className="text-[#8245ec]">
                             <Typewriter
                                 words={[
                                     'a Programmer',
-                                    'an Android App Developer',
+                                    'an Open Source Contributor',
                                     'a Volunteer',
-                                    'a Dipoma Holder',
-                                    'a Passionate Person in Tech'
+                                    'an Android App Developer',
+                                    'a Problem Solver',
+                                    'a Tech Explorer',
+                                    'a Creative Thinker',
+                                    'a Team Collaborator'
                                 ]}
                                 loop={true}
                                 cursor
