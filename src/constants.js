@@ -346,7 +346,6 @@ export const projects = [
 ];
 
 export const certifications = [
-    // ===== MIT =====
     {
         id: 1,
         name: "Serious Games using AI",
@@ -365,8 +364,6 @@ export const certifications = [
         institution: "Beaver Works Summer Institute, Massachusetts Institute of Technology, USA",
         year: "2025",
     },
-
-    // ===== IITs =====
     {
         id: 4,
         name: "Basic Programming using Python",
@@ -397,10 +394,8 @@ export const certifications = [
         institution: "Spoken Tutorial Programme, Indian Institute of Technology (IIT Bombay), India",
         year: "2025",
     },
-
-    // ===== Everything else (original order preserved) =====
     {
-        id: 9,
+        id: 0,
         name: "Advanced Diploma in Microsoft Excel",
         institution: "Thames College, Birmingham, England",
         year: "2025",
