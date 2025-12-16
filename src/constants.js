@@ -410,7 +410,7 @@ export const certifications = [
         id: 11,
         name: "Robotics (Level 1-6)",
         institution: "MATH JUNIOR, India",
-        year: "2025",
+        year: "2024-2025",
     },
     {
         id: 12,
