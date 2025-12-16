@@ -499,37 +499,37 @@ export const certifications = [
     {
         id: 26,
         name: "Web Designing",
-        institution: "NIELIT Haridwar, India",
+        institution: "National Institute of Electronics and Information Technology (NIELIT Haridwar), India",
         year: "2025",
     },
     {
         id: 27,
         name: "Data Analytics using Power BI",
-        institution: "NIELIT Haridwar, India",
+        institution: "National Institute of Electronics and Information Technology (NIELIT Haridwar), India",
         year: "2025",
     },
     {
         id: 28,
         name: "Data Science using Python, Business Intelligence using Power BI & Tableau",
-        institution: "NIELIT Lucknow, India",
+        institution: "National Institute of Electronics and Information Technology (NIELIT Lucknow), India",
         year: "2025",
     },
     {
         id: 29,
         name: "Android App Development using Kotlin & Java",
-        institution: "NIELIT Lucknow, India",
+        institution: "National Institute of Electronics and Information Technology (NIELIT Lucknow), India",
         year: "2025",
     },
     {
         id: 30,
         name: "Data Analytics using Spreadsheets",
-        institution: "NIELIT Gorakhpur, India",
+        institution: "National Institute of Electronics and Information Technology (NIELIT Gorakhpur), India",
         year: "2025",
     },
     {
         id: 31,
         name: "Introduction to MATLAB and Simulink",
-        institution: "NIELIT Calicut, India",
+        institution: "National Institute of Electronics and Information Technology (NIELIT Calicut), India",
         year: "2025",
     },
     {
