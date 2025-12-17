@@ -51,7 +51,7 @@ const About = () => {
 
                     {/* About Me Paragraph */}
                     <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-                        Hi, I’m Sarang Menon, a high school student from Kerala, India with a passion for learning, technology, and creativity. I
+                        Hi, I’m Sarang Menon, a high school student from India with a passion for learning, technology, and creativity. I
                         am a happy soul who is passionate on travel, music and for sure cool tech.
                         <br /><br />
                         I enjoy doing any project, both as an individual contributor or as part of a team. And I love sharing whatever skills I
