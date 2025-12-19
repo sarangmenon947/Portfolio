@@ -8,7 +8,7 @@ import tailwindLogo from "./assets/tech/tailwindLogo.png";
 import bootstrapLogo from "./assets/tech/bootstrapLogo.png";
 
 import nodeLogo from "./assets/tech/nodeLogo.png";
-import expressLogo from "./assets/tech/expressLogo.svg";
+import expressLogo from "./assets/tech/expressLogo.webp";
 import mySqlLogo from "./assets/tech/mySqlLogo.png";
 import mongoDbLogo from "./assets/tech/mongoDbLogo.svg";
 import firebaseLogo from "./assets/tech/firebaseLogo.webp";
