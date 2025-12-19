@@ -42,6 +42,11 @@ import googleLogo from "./assets/tech/googleLogo.png";
 import microsoftLogo from "./assets/tech/microsoftLogo.webp";
 import zohoLogo from "./assets/tech/zohoLogo.png";
 
+import excelLogo from "./assets/tech/excelLogo.png";
+import googlesheetsLogo from "./assets/tech/googlesheetsLogo.png";
+import powerbiLogo from "./assets/tech/powerbiLogo.png";
+import tableauLogo from "./assets/tech/tableauLogo.png";
+
 import wctdLogo from "./assets/wctdLogo.jpg";
 
 import ybiLogo from "./assets/tech/ybiLogo.jpg";
@@ -115,6 +120,15 @@ export const SkillsInfo = [
             { name: 'Google', logo: googleLogo },
             { name: 'Microsoft', logo: microsoftLogo },
             { name: 'Zoho', logo: zohoLogo },
+        ],
+    },
+    {
+        title: 'Data Analytics',
+        skills: [
+            { name: "Excel", logo: excelLogo },
+            { name: 'Google Sheets', logo: googlesheetsLogo },
+            { name: 'Power BI', logo: powerbiLogo },
+            { name: 'Tableau', logo: tableauLogo },
         ],
     },
 ];
