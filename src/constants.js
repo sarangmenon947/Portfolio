@@ -30,10 +30,10 @@ import gitLogo from "./assets/tech/gitLogo.png";
 import gitHubLogo from "./assets/tech/gitHubLogo.webp";
 import vscodeLogo from "./assets/tech/vscodeLogo.png";
 import postmanLogo from "./assets/tech/postmanLogo.png";
-import vercelLogo from "./assets/tech/vercelLogo.svg";
+import vercelLogo from "./assets/tech/vercelLogo.png";
 import netlifyLogo from "./assets/tech/netlifyLogo.webp";
 
-import awsLogo from "./assets/tech/awsLogo.webp";
+import awsLogo from "./assets/tech/awsLogo.png";
 import gcpLogo from "./assets/tech/gcpLogo.png";
 import azureLogo from "./assets/tech/azureLogo.png";
 import cloudflareLogo from "./assets/tech/cloudflareLogo.png";
