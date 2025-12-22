@@ -49,6 +49,16 @@ import tableauLogo from "./assets/tech/tableauLogo.png";
 
 import wctdLogo from "./assets/wctdLogo.jpg";
 
+import tataLogo from "./assets/tech/tataLogo.png";
+import bcgxLogo from "./assets/tech/bcgxLogo.png";
+import mastercardLogo from "./assets/tech/mastercardLogo.png";
+import verizonLogo from "./assets/tech/verizonLogo.webp";
+import telstraLogo from "./assets/tech/telstraLogo.svg";
+import commonwealthbankLogo from "./assets/tech/commonwealthbankLogo.png";
+import accentureLogo from "./assets/tech/accentureLogo.png";
+import pwcLogo from "./assets/tech/pwcLogo.png";
+import goldmansachsLogo from "./assets/tech/goldmansachsLogo.png";
+import jpmorganLogo from "./assets/tech/jpmorganLogo.png";
 import ybiLogo from "./assets/tech/ybiLogo.jpg";
 
 import birlaBrainiacsLogo from "./assets/tech/birlaBrainiacsLogo.png";
@@ -162,6 +172,184 @@ export const volunteerships = [
 export const internships = [
     {
         id: 0,
+        img: tataLogo,
+        skill: "Cybersecurity Analyst",
+        company: "TATA",
+        date: "July 2025 - December 2025",
+        desc: "Identity and access management (IAM) fundamentals\n" +
+            "IAM strategy assessment\n" +
+            "Crafting custom IAM solutions\n" +
+            "Platform integration",
+        skills: [
+            "Cybersecurity",
+        ],
+    },
+    {
+        id: 1,
+        img: tataLogo,
+        skill: "Data Visualisation: Empowering Business\n" +
+            "with Effective Insights",
+        company: "TATA",
+        date: "July 2025",
+        desc: "Framing the Business Scenario\n" +
+            "Choosing the Right Visuals\n" +
+            "Creating Effective Visuals\n" +
+            "Communicating Insights and Analysis",
+        skills: [
+            "Data Analysis",
+            "Data Visualisation",
+        ],
+    },
+    {
+        id: 2,
+        img: bcgxLogo,
+        skill: "GenAI",
+        company: "BCG X",
+        date: "February 2025 - June 2025",
+        desc: "Data extraction and initial analysis\n" +
+            "Developing an AI-powered financial chatbot",
+        skills: [
+            "Data Analysis",
+            "Artificial Intelligence",
+        ],
+    },
+    {
+        id: 3,
+        img: mastercardLogo,
+        skill: "Cybersecurity",
+        company: "Mastercard",
+        date: "January 2025 - June 2025",
+        desc: "Design a phishing email simulation\n" +
+            "Interpret phishing simulation results",
+        skills: [
+            "Cybersecurity",
+        ],
+    },
+    {
+        id: 4,
+        img: verizonLogo,
+        skill: "Cloud Platform",
+        company: "Verizon",
+        date: "April 2025",
+        desc: "Program Scenario\n" +
+            "Understanding the characteristics of cloud-native applications\n" +
+            "Cloud-based application security\n" +
+            "Recap",
+        skills: [
+            "Cloud Computing",
+        ],
+    },
+    {
+        id: 5,
+        img: telstraLogo,
+        skill: "Cybersecurity",
+        company: "Telstra",
+        date: "February 2025 - March 2025",
+        desc: "Responding to a malware attack\n" +
+            "Analysing the attack\n" +
+            "(Technical) Mitigate the malware attack\n" +
+            "Incident Postmortem",
+        skills: [
+            "Cybersecurity",
+        ],
+    },
+    {
+        id: 6,
+        img: commonwealthbankLogo,
+        skill: "Introduction to Cybersecurity",
+        company: "Commonwealth Bank",
+        date: "January 2025 - February 2025",
+        desc: "Data analysis\n" +
+            "Incident response\n" +
+            "Security awareness\n" +
+            "Penetration testing",
+        skills: [
+            "Data Analysis",
+            "Cybersecurity",
+            "PEN Testing",
+        ],
+    },
+    {
+        id: 7,
+        img: accentureLogo,
+        skill: "Strategy Consulting",
+        company: "Accenture",
+        date: "October 2024 - January 2025",
+        desc: "Set Project Priorities\n" +
+            "Assemble a Plan\n" +
+            "User Journey Redesign\n" +
+            "Outcomes Analysis\n" +
+            "Fix the Errors",
+        skills: [
+            "Debugging",
+            "Project Analysis",
+            "Strategic Consulting",
+        ],
+    },
+    {
+        id: 8,
+        img: accentureLogo,
+        skill: "Coding: Development & Advanced Engineering",
+        company: "Accenture",
+        date: "November 2024 - December 2025",
+        desc: "Object Oriented Programming\n" +
+            "Code Refactoring\n" +
+            "Continuous Integration\n" +
+            "Agile Planning",
+        skills: [
+            "Programming",
+        ],
+    },
+    {
+        id: 9,
+        img: pwcLogo,
+        skill: "Power BI",
+        company: "PwC Switzerland",
+        date: "September 2024 - November 2024",
+        desc: "Introduction\n" +
+            "Call Centre Trends\n" +
+            "Customer Retention\n" +
+            "Diversity & Inclusion\n",
+        skills: [
+            "Power BI",
+            "Data Visualization",
+        ],
+    },
+    {
+        id: 10,
+        img: goldmansachsLogo,
+        skill: "Excel Skills for Business",
+        company: "Goldman Sachs",
+        date: "September 2024 - October 2024",
+        desc: "Basic Excel Skills\n" +
+            "Forecasting Operating Assumptions\n" +
+            "Translating Assumptions to the P&L\n" +
+            "Forecasting Cash Flows\n" +
+            "Creating Outputs in Excel",
+        skills: [
+            "Microsoft Excel",
+            "Data Analysis",
+        ],
+    },
+    {
+        id: 11,
+        img: jpmorganLogo,
+        skill: "Excel Skills",
+        company: "JP Morgan Chase & Co",
+        date: "September 2024",
+        desc: "Excel Keyboard Shortcuts\n" +
+            "Conditional Formatting\n" +
+            "Visual Basic for Applications (VBA) Macros\n" +
+            "Data Visualization in Excel\n" +
+            "Data-Driven Storytelling",
+        skills: [
+            "Microsoft Excel",
+            "VBA",
+            "Data Analysis",
+        ],
+    },
+    {
+        id: 12,
         img: ybiLogo,
         skill: "Business & Data Analytics",
         company: "YBI Foundation",
@@ -181,7 +369,7 @@ export const internships = [
         ],
     },
     {
-        id: 1,
+        id: 13,
         img: ybiLogo,
         skill: "Python Programming",
         company: "YBI Foundation",
